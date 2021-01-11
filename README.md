@@ -26,5 +26,9 @@
 
 ### Contact me here:
 
-<img align="left" alt="garrett-walter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/garrett-walter-63b2b81b5/"/>
-<img align="left" alt="gtwalter15 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href=""/>
+[<img align="left" alt="garrett-walter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gtwalter15 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/gtwalter15/
+[linkedin]: https://www.linkedin.com/in/garrett-walter-63b2b81b5
