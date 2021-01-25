@@ -1,7 +1,7 @@
 ### Hello there, I am Garrett Walter.
 
 - 🌱 I’m currently learning to become a Full-Stack web developer!
-- 👯 I’m looking to collaborate with other developers who are interested in finance and stock market data applications.
+- 👯 I’m looking to collaborate with other developers who are interested in digital marketing.
 - 💬 Ask me about my ideas for future projects!
 - 💰 Currently looking for work as a Full-Stack Developer
 - ⚡ Fun fact: I am only 19.
