@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate with other developers who are interested in digital marketing.
 - 💬 Ask me about my ideas for future projects!
 - 💰 Currently looking for work as a Full-Stack Developer
-- ⚡ Fun fact: I am only 19.
 
 ### Languages/Tech I am proficient in:
 
