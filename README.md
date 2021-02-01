@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate with other developers who are interested in digital marketing.
 - 💬 Ask me about my ideas for future projects!
 - 💰 Currently looking for work as a Full-Stack Developer
+- 🪐 Working on Astronet Digital
 
 ### Languages/Tech I am proficient in:
 
