@@ -1,10 +1,9 @@
 ### Hello there, I am Garrett Walter.
 
-- 🌱 I’m currently learning to become a Full-Stack web developer!
-- 👯 I’m looking to collaborate with other developers who are interested in digital marketing.
+- 🌱 Full-Stack web developer with advanced skills in React, JavaScript, HTML, CSS, noSQL and SQL Databases
+- 👯 I’m looking to collaborate with other developers who are interested in digital marketing, finance, innovation, and automation.
 - 💬 Ask me about my ideas for future projects!
-- 💰 Currently looking for work as a Full-Stack Developer
-- 🪐 Working on Astronet Digital
+- 🪐 Working at Astronet Digital
 
 ### Languages/Tech I am proficient in:
 
