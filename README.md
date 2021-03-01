@@ -1,7 +1,7 @@
 ### Hello there, I am Garrett Walter.
 
-- 🌱 Full-Stack web developer certified by Georgia Tech
-- 👯 I’m looking to collaborate with other developers who are interested in digital marketing, finance, innovation, and automation.
+- 🐝 Full-Stack web developer certified by Georgia Tech
+- 👯 Looking to collaborate with other developers who are interested in digital marketing, finance, innovation, and automation.
 - 💬 Ask me about my ideas for future projects!
 - 🪐 Working at Astronet Digital
 
