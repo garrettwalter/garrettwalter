@@ -21,7 +21,7 @@
 <br />
 <br />
 
-<img align="left" alt="Garrett Walter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=walter&show_icons=true&hide_border=true" />
+<img align="left" alt="Garrett Walter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=garrettwalter&show_icons=true&hide_border=true" />
 
 ### Contact me here:
 
