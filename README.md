@@ -3,7 +3,7 @@
 - 🐝 Full-Stack web developer certified by Georgia Tech
 - 👯 Looking to collaborate with other developers who are interested in digital marketing, finance, innovation, and automation.
 - 💬 Ask me about my ideas for future projects!
-- 🪐 Working at Astronet Digital, and Success Rocket
+- 🪐 Developer at Success Rocket
 
 ### Languages/Tech I am proficient in:
 
@@ -20,8 +20,6 @@
 
 <br />
 <br />
-
-<img align="left" alt="Garrett Walter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=garrettwalter&show_icons=true&hide_border=true" />
 
 ### Contact me here:
 
