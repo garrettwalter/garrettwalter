@@ -3,7 +3,7 @@
 - 🐝 Full-Stack web developer certified by Georgia Tech
 - 👯 Looking to collaborate with other developers who are interested in digital marketing, finance, innovation, and automation.
 - 💬 Ask me about my ideas for future projects!
-- 🪐 Developer at Success Rocket
+- 🪐 Currently developing PEERPOP
 
 ### Languages/Tech I am proficient in:
 
