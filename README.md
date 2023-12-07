@@ -3,7 +3,7 @@
 - 🐝 Full-Stack web developer certified by Georgia Tech
 - 👯 Looking to collaborate with others who are interested in innovation in digital marketing and finance.
 - 💬 Ask me about my ideas for future projects!
-- 🪐 Currently developing <a href="https://peerpop.io" align="left" style="color: green;">PeerPop.io</a> <-- check it out
+- 🪐 Currently developing <a href="https://peerpop.io" align="left" style="color: green;">PeerPop</a> <-- check it out
 
 
 ### Languages/Tech I am proficient in:
