@@ -1,7 +1,7 @@
 ### Hello there, I am Garrett Walter.
 
 - 🐝 Full-Stack web developer certified by Georgia Tech
-- 👯 Looking to collaborate with others who are interested in innovation in digital marketing and finance.
+- 👯 Looking to collaborate with others who are interested in innovation in digital marketing, finanace, and in-person experiences.
 - 💬 Ask me about my ideas for future projects!
 - 🪐 Currently developing <a href="https://peerpop.io" align="left" style="color: green;">PeerPop</a> <-- check it out
 
